@@ -1,0 +1,8 @@
+D:\AN3\SEM II\II\LAB\Lab1\Exercitiul5\Exercitiul5\bin\Debug\Exercitiul5.exe.config
+D:\AN3\SEM II\II\LAB\Lab1\Exercitiul5\Exercitiul5\bin\Debug\Exercitiul5.exe
+D:\AN3\SEM II\II\LAB\Lab1\Exercitiul5\Exercitiul5\bin\Debug\Exercitiul5.pdb
+D:\AN3\SEM II\II\LAB\Lab1\Exercitiul5\Exercitiul5\obj\Debug\Exercitiul5.csproj.AssemblyReference.cache
+D:\AN3\SEM II\II\LAB\Lab1\Exercitiul5\Exercitiul5\obj\Debug\Exercitiul5.csproj.SuggestedBindingRedirects.cache
+D:\AN3\SEM II\II\LAB\Lab1\Exercitiul5\Exercitiul5\obj\Debug\Exercitiul5.csproj.CoreCompileInputs.cache
+D:\AN3\SEM II\II\LAB\Lab1\Exercitiul5\Exercitiul5\obj\Debug\Exercitiul5.exe
+D:\AN3\SEM II\II\LAB\Lab1\Exercitiul5\Exercitiul5\obj\Debug\Exercitiul5.pdb
